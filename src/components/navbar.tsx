@@ -34,27 +34,27 @@ const NavLinks = [
 const Services = [
   {
     title: "AI and ML Solutions",
-    href: "/artificial-intelligence-and-machine-learning-solutions",
+    href: "/services/artificial-intelligence-and-machine-learning-solutions",
   },
   {
     title: "Business Analysis",
-    href: "/business-analysis",
+    href: "/services/business-analysis",
   },
   {
     title: "Chatbot Development",
-    href: "/chatbot-development",
+    href: "/services/chatbot-development",
   },
   {
     title: "Cybersecurity",
-    href: "/cybersecurity",
+    href: "/services/cybersecurity",
   },
   {
     title: "Data Analytics",
-    href: "/data-analytics",
+    href: "/services/data-analytics",
   },
   {
     title: "Robotic Process Automation",
-    href: "/robotic-process-automation",
+    href: "/services/robotic-process-automation",
   },
 ];
 
