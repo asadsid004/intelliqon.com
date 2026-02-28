@@ -13,7 +13,7 @@ export const Hero = () => {
       <div className="relative z-10 p-4 pt-8 text-center md:px-6">
         <h1 className="text-5xl leading-relaxed tracking-tight md:text-6xl">
           Empowering Growth through <br />{" "}
-          <span className="text-primary font-serif text-6xl font-semibold md:text-7xl">
+          <span className="text-primary text-6xl font-semibold md:text-7xl">
             Expert Consulting
           </span>
         </h1>
